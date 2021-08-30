@@ -12,4 +12,4 @@ Datos de color sobre mi:
 
 Les dejo una foto mia antes de la cuarentena :)
 
-![Yo](IMG_20200229_220547262)
+![Yo](IMG_20200229_220547262.jpg)
